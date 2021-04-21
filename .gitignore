@@ -1,0 +1,9 @@
+# COMMONS
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# DEV
+node_modules/
+build/
